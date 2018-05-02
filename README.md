@@ -1,14 +1,11 @@
 # afeng-eggjs
 
-eggjs业务常用功能集
+afeng-eggjs 是在eggjs的基础上封装了一些业务常用的工具类，目标是搭建成一个开箱即用的API接口框架。
+```
+不会拘泥于形式，怎么方便怎么来
+```
 
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
+### 快速开始
 
 ```bash
 $ npm i
@@ -16,18 +13,13 @@ $ npm run dev
 $ open http://localhost:7001/
 ```
 
-### Deploy
+### 生产环境运行
 
 ```bash
 $ npm start
 $ npm stop
 ```
 
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
 [egg]: https://eggjs.org
+
+
